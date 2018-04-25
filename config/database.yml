@@ -1,0 +1,4 @@
+development: # ※ここは実行時の環境による
+  adapter: postgresql
+  database: habitica_devel
+  user: haya

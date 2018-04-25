@@ -1,0 +1,4 @@
+create_table "lastrun" do |t|
+  t.datetime "run_at"
+end
+
