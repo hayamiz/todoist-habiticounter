@@ -19,6 +19,7 @@ GEM
       concurrent-ruby (~> 1.0)
     minitest (5.11.3)
     pg (1.0.0)
+    rake (12.3.1)
     ridgepole (0.7.1)
       activerecord (>= 5.0.1, < 6)
       diffy
@@ -31,6 +32,7 @@ PLATFORMS
 
 DEPENDENCIES
   pg
+  rake
   ridgepole
 
 RUBY VERSION
