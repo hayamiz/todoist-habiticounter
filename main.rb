@@ -1,3 +1,4 @@
 
-p "hello world"
+require 'pp'
 
+PP.pp ENV
